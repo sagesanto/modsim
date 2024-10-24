@@ -1,0 +1,5 @@
+.venv
+**.png
+hw*out
+project*out
+class
